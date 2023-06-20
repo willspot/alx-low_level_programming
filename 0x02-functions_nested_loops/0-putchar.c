@@ -1,5 +1,4 @@
-#include "main.c"
-#include "_putchar.c"
+#include "main.h _putchar.c"
 
 /**
   * main : entry point
