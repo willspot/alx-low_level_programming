@@ -2,7 +2,7 @@
 
 /**
  * print_triangle - prints a triangle
- * 
+ * Description: Prints diagonals
  * @size: size of the triangle
  * Return: 0
  *
