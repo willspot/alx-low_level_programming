@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * *_calloc: function to allocates memory
+ * *_calloc - function to allocates memory
  * @nmemb: unsigned int type
  * @size: unsigned int type
  * Return: NULL
